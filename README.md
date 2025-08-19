@@ -33,6 +33,7 @@ CNN Architecture:
 
 Real-time Hand Gesture Prediction:  
 ![Results](https://github.com/Mahendra2238/Sign_Language_Recognition_Using_CNN/blob/main/imgs/results.jpg)  
+Example output screens:  
 ![Output](https://github.com/Mahendra2238/Sign_Language_Recognition_Using_CNN/blob/main/imgs/output.png)  
 
 ---
